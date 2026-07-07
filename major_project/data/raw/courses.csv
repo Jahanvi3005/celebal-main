@@ -1,0 +1,61 @@
+course_id,course_title,category,instructor_id,instructor_name,duration_hours,difficulty_level,price_inr
+CRS001,Python for Data Science,Data Science,INS009,Suresh Gupta,15,Intermediate,2986
+CRS002,Machine Learning Fundamentals,AI & ML,INS006,Priya Singh,10,Beginner,223
+CRS003,Deep Learning with TensorFlow,AI & ML,INS004,Sunita Rao,10,Advanced,13612
+CRS004,React.js Complete Guide,Web Development,INS014,Pooja Mishra,30,Advanced,6867
+CRS005,Node.js Backend Development,Web Development,INS007,Vikas Mehta,20,Beginner,119
+CRS006,HTML & CSS Mastery,Web Development,INS015,,5,Intermediate,2276
+CRS007,Business Analytics Essentials,Business,INS003,Arjun Patel,20,Advanced,10604
+CRS008,Project Management Professional,Business,INS003,Arjun Patel,40,Intermediate,4049
+CRS009,Digital Marketing Strategy,Business,INS004,Sunita Rao,10,Advanced,8712
+CRS010,UI/UX Design Principles,Design,INS005,Deepak Joshi,10,Beginner,133
+CRS011,Figma for Beginners,Design,INS012,Nisha Agarwal,5,Beginner,19
+CRS012,Motion Graphics & Animation,Design,INS013,Manish Verma,20,Beginner,201
+CRS013,AWS Solutions Architect,Cloud Computing,INS013,Manish Verma,40,Advanced,12685
+CRS014,Google Cloud Fundamentals,Cloud Computing,INS002,Meera Nair,15,Beginner,67
+CRS015,Azure Data Engineering,Cloud Computing,INS013,Manish Verma,5,Beginner,942
+CRS016,Ethical Hacking Basics,Cybersecurity,INS010,,10,Beginner,686
+CRS017,Network Security Essentials,Cybersecurity,INS002,Meera Nair,10,Advanced,14498
+CRS018,Flutter App Development,Mobile Development,INS006,Priya Singh,15,Beginner,875
+CRS019,iOS Development with Swift,Mobile Development,INS009,Suresh Gupta,30,Beginner,101
+CRS020,SQL & Database Design,Data Science,INS013,,5,Advanced,8138
+CRS021,Power BI & Tableau,Data Science,INS005,Deepak Joshi,10,Advanced,6616
+CRS022,Statistics for Data Science,Data Science,INS015,Kiran Desai,10,Advanced,12777
+CRS023,NLP with Python,AI & ML,INS006,Priya Singh,40,Advanced,6758
+CRS024,Computer Vision,AI & ML,INS003,Arjun Patel,15,Intermediate,1877
+CRS025,Vue.js & Nuxt Development,Web Development,INS004,Sunita Rao,20,Beginner,779
+CRS026,Full Stack Django,Web Development,INS008,Kavita Reddy,5,Advanced,10918
+CRS027,Financial Modelling,Business,INS012,Nisha Agarwal,15,Advanced,6347
+CRS028,Entrepreneurship 101,Business,INS006,Priya Singh,20,Beginner,394
+CRS029,Brand Identity Design,Design,INS010,Anjali Iyer,40,Intermediate,4998
+CRS030,3D Modelling with Blender,Design,INS004,Sunita Rao,30,Intermediate,4503
+CRS031,Docker & Kubernetes,Cloud Computing,INS004,Sunita Rao,5,Intermediate,3781
+CRS032,DevOps CI/CD Pipeline,Cloud Computing,INS003,Arjun Patel,5,Advanced,6723
+CRS033,Penetration Testing,Cybersecurity,INS007,Vikas Mehta,20,Advanced,6392
+CRS034,Android Development Kotlin,Mobile Development,INS002,Meera Nair,10,Intermediate,3846
+CRS035,React Native Cross-Platform,Mobile Development,INS002,Meera Nair,40,Beginner,66
+CRS036,Advanced Python OOP,Data Science,INS006,Priya Singh,10,Advanced,7011
+CRS037,Data Engineering with Spark,Data Science,INS004,Sunita Rao,20,Advanced,14534
+CRS038,Reinforcement Learning,AI & ML,INS010,,15,Advanced,10834
+CRS039,Transformer Models & LLMs,AI & ML,INS008,Kavita Reddy,40,Advanced,12938
+CRS040,TypeScript Advanced,Web Development,INS009,Suresh Gupta,15,Beginner,786
+CRS041,GraphQL APIs,Web Development,INS002,Meera Nair,15,Intermediate,1945
+CRS042,Operations Management,Business,INS001,,5,Advanced,6117
+CRS043,Leadership & Communication,Business,INS008,Kavita Reddy,40,Beginner,995
+CRS044,Adobe Illustrator Mastery,Design,INS010,Anjali Iyer,40,Intermediate,2240
+CRS045,Photography & Lightroom,Design,INS013,Manish Verma,5,Advanced,13064
+CRS046,Terraform Infrastructure,Cloud Computing,INS013,Manish Verma,20,Beginner,300
+CRS047,Cloud Security Best Practices,Cybersecurity,INS008,Kavita Reddy,30,Intermediate,2407
+CRS048,OSINT & Threat Intelligence,Cybersecurity,INS009,Suresh Gupta,5,Beginner,440
+CRS049,Unity Game Development,Mobile Development,INS007,Vikas Mehta,20,Intermediate,2541
+CRS050,Scala for Big Data,Data Science,INS008,Kavita Reddy,5,Beginner,181
+CRS051,MLOps & Model Deployment,AI & ML,INS015,Kiran Desai,40,Beginner,503
+CRS052,Svelte & SvelteKit,Web Development,INS005,Deepak Joshi,40,Intermediate,4129
+CRS053,Supply Chain Management,Business,INS010,Anjali Iyer,40,Intermediate,3268
+CRS054,Product Management,Business,INS010,Anjali Iyer,20,Intermediate,4499
+CRS055,Motion UI Design,Design,INS009,Suresh Gupta,5,Intermediate,3026
+CRS056,NoSQL & MongoDB,Data Science,INS007,Vikas Mehta,30,Advanced,9660
+CRS057,Microservices Architecture,Cloud Computing,INS006,Priya Singh,5,Beginner,604
+CRS058,Zero Trust Security,Cybersecurity,INS014,Pooja Mishra,15,Intermediate,4039
+CRS059,Wearable App Development,Mobile Development,INS001,Rajiv Sharma,40,Intermediate,1398
+CRS060,Bayesian Statistics,Data Science,INS006,,15,Intermediate,1231
