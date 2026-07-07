@@ -1,0 +1,38 @@
+--- Cleaning Orders ---
+Found 38 orders with NULL or empty customer_id.
+Fixed 47 orders with incorrect date format (DD-MM-YYYY).
+
+--- Cleaning Products ---
+Cleaned and normalized 98 product names (trimmed spaces & applied Title Case).
+
+--- Validating Customer Emails ---
+Found 11 invalid customer emails:
+  - Customer CUST0060: isha.roygmail.com (Missing @ symbol)
+  - Customer CUST0063: meera.reddy@ (Missing domain)
+  - Customer CUST0128: shreya.guptagmail.com (Missing @ symbol)
+  - Customer CUST0273: manish.raogmail.com (Missing @ symbol)
+  - Customer CUST0286: aditi.reddygmail.com (Missing @ symbol)
+  - Customer CUST0316: karan.raogmail.com (Missing @ symbol)
+  - Customer CUST0364: siddharth.mehta@ (Missing domain)
+  - Customer CUST0382: karan.raogmail.com (Missing @ symbol)
+  - Customer CUST0431: ganesh.nair@ (Missing domain)
+  - Customer CUST0494: aarav.gupta@ (Missing domain)
+  - Customer CUST0514: ganesh.joshigmail.com (Missing @ symbol)
+
+--- Checking Referential Integrity ---
+Found 15 order_items referencing non-existent orders.
+  - Item ITEM01330 references non-existent Order ORD582046
+  - Item ITEM01317 references non-existent Order ORD513023
+  - Item ITEM01322 references non-existent Order ORD424799
+  - Item ITEM01318 references non-existent Order ORD768529
+  - Item ITEM01324 references non-existent Order ORD575393
+  - Item ITEM01326 references non-existent Order ORD447720
+  - Item ITEM01329 references non-existent Order ORD970844
+  - Item ITEM01316 references non-existent Order ORD935696
+  - Item ITEM01320 references non-existent Order ORD621020
+  - Item ITEM01325 references non-existent Order ORD857422
+  - Item ITEM01327 references non-existent Order ORD778371
+  - Item ITEM01328 references non-existent Order ORD446688
+  - Item ITEM01321 references non-existent Order ORD705663
+  - Item ITEM01323 references non-existent Order ORD695718
+  - Item ITEM01319 references non-existent Order ORD114208

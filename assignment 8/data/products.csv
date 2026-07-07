@@ -1,0 +1,520 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,  TOWELS 207  ,Home,Towels,148.46
+PROD0002,Sweater 227,Clothing,Sweater,101.5
+PROD0003,Cushion 735,Home,Cushion,224.4
+PROD0004,Dress 223,Clothing,Dress,98.04
+PROD0005,Smartphone 413,Electronics,Smartphone,143.52
+PROD0006,Blender 238,Home,Blender,177.08
+PROD0007,Dress 290,Clothing,Dress,433.96
+PROD0008,Jacket 982,Clothing,Jacket,398.73
+PROD0009,Sci-Fi Book 829,Books,Sci-Fi Book,92.22
+PROD0010,Headphones 453,Electronics,Headphones,83.8
+PROD0011,Sneakers 282,Clothing,Sneakers,388.32
+PROD0012,Coffee Maker 906,Home,Coffee Maker,264.79
+PROD0013,Vase 560,Home,Vase,438.3
+PROD0014,  SMARTWATCH 758  ,Electronics,Smartwatch,149.23
+PROD0015,  RUG 488  ,Home,Rug,439.7
+PROD0016,Sci-Fi Book 801,Books,Sci-Fi Book,429.64
+PROD0017,Towels 478,Home,Towels,140.76
+PROD0018,Coffee Maker 573,Home,Coffee Maker,208.83
+PROD0019,  T-SHIRT 370  ,Clothing,T-Shirt,151.99
+PROD0020,Jeans 907,Clothing,Jeans,158.8
+PROD0021,Dress 908,Clothing,Dress,94.95
+PROD0022,HiStOrY BoOk 784,Books,History Book,393.39
+PROD0023,Comic Book 703,Books,Comic Book,359.24
+PROD0024,Comic Book 258,Books,Comic Book,113.76
+PROD0025,Lamp 581,Home,Lamp,354.41
+PROD0026,Rug 807,Home,Rug,191.54
+PROD0027,HeAdPhOnEs 552,Electronics,Headphones,201.9
+PROD0028,Sneakers 943,Clothing,Sneakers,323.03
+PROD0029,Smartphone 413,Electronics,Smartphone,35.91
+PROD0030,CuShIoN 302,Home,Cushion,43.32
+PROD0031,Vase 612,Home,Vase,56.56
+PROD0032,Dress 498,Clothing,Dress,212.88
+PROD0033,CuShIoN 418,Home,Cushion,406.0
+PROD0034,Socks 586,Clothing,Socks,113.91
+PROD0035,ScI-Fi bOoK 941,Books,Sci-Fi Book,386.59
+PROD0036,Camera 851,Electronics,Camera,192.46
+PROD0037,  RUG 792  ,Home,Rug,297.43
+PROD0038,BiOgRaPhY 688,Books,Biography,7.93
+PROD0039,Jacket 342,Clothing,Jacket,157.06
+PROD0040,  CAMERA 671  ,Electronics,Camera,99.62
+PROD0041,Rug 913,Home,Rug,496.36
+PROD0042,Smartphone 808,Electronics,Smartphone,71.5
+PROD0043,  SMARTWATCH 387  ,Electronics,Smartwatch,438.28
+PROD0044,HeAdPhOnEs 951,Electronics,Headphones,180.16
+PROD0045,Cushion 988,Home,Cushion,252.44
+PROD0046,Coffee Maker 496,Home,Coffee Maker,265.49
+PROD0047,Tablet 406,Electronics,Tablet,352.89
+PROD0048,  JEANS 653  ,Clothing,Jeans,141.28
+PROD0049,Tablet 790,Electronics,Tablet,236.8
+PROD0050,Headphones 352,Electronics,Headphones,68.61
+PROD0051,Laptop 869,Electronics,Laptop,145.16
+PROD0052,Sweater 108,Clothing,Sweater,170.65
+PROD0053,Laptop 862,Electronics,Laptop,195.44
+PROD0054,Tablet 321,Electronics,Tablet,109.47
+PROD0055,Sweater 467,Clothing,Sweater,146.6
+PROD0056,  SWEATER 162  ,Clothing,Sweater,124.54
+PROD0057,Coffee Maker 563,Home,Coffee Maker,403.01
+PROD0058,History Book 963,Books,History Book,363.69
+PROD0059,Sweater 442,Clothing,Sweater,326.8
+PROD0060,CoFfEe mAkEr 117,Home,Coffee Maker,106.61
+PROD0061,  SCI-FI BOOK 610  ,Books,Sci-Fi Book,308.12
+PROD0062,Headphones 276,Electronics,Headphones,424.76
+PROD0063,BiOgRaPhY 817,Books,Biography,372.95
+PROD0064,Blender 964,Home,Blender,97.61
+PROD0065,Rug 863,Home,Rug,381.01
+PROD0066,Biography 455,Books,Biography,317.24
+PROD0067,Smartwatch 222,Electronics,Smartwatch,204.35
+PROD0068,TaBlEt 140,Electronics,Tablet,200.94
+PROD0069,Fiction Novel 238,Books,Fiction Novel,295.59
+PROD0070,Fiction Novel 905,Books,Fiction Novel,440.63
+PROD0071,Comic Book 688,Books,Comic Book,459.73
+PROD0072,  FICTION NOVEL 416  ,Books,Fiction Novel,262.64
+PROD0073,  TOWELS 650  ,Home,Towels,188.12
+PROD0074,Comic Book 714,Books,Comic Book,9.1
+PROD0075,Sci-Fi Book 327,Books,Sci-Fi Book,86.85
+PROD0076,  T-SHIRT 755  ,Clothing,T-Shirt,290.3
+PROD0077,Blender 550,Home,Blender,178.27
+PROD0078,Cushion 137,Home,Cushion,36.45
+PROD0079,Sneakers 943,Clothing,Sneakers,11.26
+PROD0080,Fiction Novel 842,Books,Fiction Novel,129.86
+PROD0081,Blender 843,Home,Blender,253.87
+PROD0082,HiStOrY BoOk 596,Books,History Book,331.76
+PROD0083,  SMARTWATCH 789  ,Electronics,Smartwatch,73.88
+PROD0084,Laptop 388,Electronics,Laptop,55.16
+PROD0085,Charger 724,Electronics,Charger,191.36
+PROD0086,Rug 651,Home,Rug,78.93
+PROD0087,Coffee Maker 491,Home,Coffee Maker,412.09
+PROD0088,Rug 916,Home,Rug,427.93
+PROD0089,Biography 478,Books,Biography,453.62
+PROD0090,Sci-Fi Book 968,Books,Sci-Fi Book,40.69
+PROD0091,  DRESS 874  ,Clothing,Dress,71.85
+PROD0092,  JACKET 441  ,Clothing,Jacket,482.4
+PROD0093,  DRESS 214  ,Clothing,Dress,203.88
+PROD0094,Camera 101,Electronics,Camera,50.85
+PROD0095,Fiction Novel 621,Books,Fiction Novel,150.45
+PROD0096,Camera 216,Electronics,Camera,147.37
+PROD0097,Charger 863,Electronics,Charger,293.59
+PROD0098,JeAnS 629,Clothing,Jeans,29.32
+PROD0099,Socks 645,Clothing,Socks,334.76
+PROD0100,  SNEAKERS 543  ,Clothing,Sneakers,293.43
+PROD0101,T-Shirt 719,Clothing,T-Shirt,262.72
+PROD0102,Vase 554,Home,Vase,314.09
+PROD0103,Comic Book 519,Books,Comic Book,456.96
+PROD0104,Fiction Novel 128,Books,Fiction Novel,286.46
+PROD0105,Tablet 647,Electronics,Tablet,293.62
+PROD0106,Blender 942,Home,Blender,34.92
+PROD0107,Camera 957,Electronics,Camera,286.59
+PROD0108,Dress 414,Clothing,Dress,134.64
+PROD0109,Lamp 310,Home,Lamp,271.05
+PROD0110,Cushion 321,Home,Cushion,311.59
+PROD0111,Jacket 739,Clothing,Jacket,125.75
+PROD0112,Sneakers 138,Clothing,Sneakers,205.94
+PROD0113,Towels 428,Home,Towels,335.01
+PROD0114,Coffee Maker 215,Home,Coffee Maker,449.98
+PROD0115,  CHARGER 994  ,Electronics,Charger,347.65
+PROD0116,Sneakers 591,Clothing,Sneakers,13.64
+PROD0117,Socks 805,Clothing,Socks,468.68
+PROD0118,Rug 195,Home,Rug,191.18
+PROD0119,Sneakers 849,Clothing,Sneakers,434.78
+PROD0120,Laptop 884,Electronics,Laptop,264.16
+PROD0121,Biography 849,Books,Biography,161.2
+PROD0122,Coffee Maker 201,Home,Coffee Maker,316.11
+PROD0123,Comic Book 879,Books,Comic Book,217.4
+PROD0124,Headphones 919,Electronics,Headphones,220.0
+PROD0125,BlEnDeR 634,Home,Blender,362.37
+PROD0126,Laptop 545,Electronics,Laptop,263.01
+PROD0127,Fiction Novel 371,Books,Fiction Novel,36.94
+PROD0128,Sci-Fi Book 950,Books,Sci-Fi Book,453.31
+PROD0129,Jacket 407,Clothing,Jacket,174.98
+PROD0130,Coffee Maker 599,Home,Coffee Maker,141.13
+PROD0131,Smartwatch 543,Electronics,Smartwatch,339.81
+PROD0132,Towels 316,Home,Towels,477.33
+PROD0133,History Book 648,Books,History Book,282.42
+PROD0134,Charger 341,Electronics,Charger,306.35
+PROD0135,Sneakers 163,Clothing,Sneakers,353.23
+PROD0136,Sci-Fi Book 697,Books,Sci-Fi Book,380.17
+PROD0137,History Book 555,Books,History Book,315.06
+PROD0138,History Book 134,Books,History Book,24.78
+PROD0139,Sweater 719,Clothing,Sweater,133.61
+PROD0140,Biography 417,Books,Biography,388.08
+PROD0141,Sci-Fi Book 438,Books,Sci-Fi Book,7.39
+PROD0142,T-Shirt 676,Clothing,T-Shirt,347.97
+PROD0143,Sci-Fi Book 830,Books,Sci-Fi Book,255.39
+PROD0144,History Book 262,Books,History Book,204.24
+PROD0145,Fiction Novel 592,Books,Fiction Novel,378.93
+PROD0146,Jacket 785,Clothing,Jacket,20.43
+PROD0147,Charger 865,Electronics,Charger,386.12
+PROD0148,T-Shirt 825,Clothing,T-Shirt,150.17
+PROD0149,Sneakers 608,Clothing,Sneakers,140.41
+PROD0150,Sneakers 445,Clothing,Sneakers,210.07
+PROD0151,Dress 189,Clothing,Dress,224.72
+PROD0152,T-Shirt 254,Clothing,T-Shirt,15.65
+PROD0153,Sweater 811,Clothing,Sweater,204.2
+PROD0154,Fiction Novel 524,Books,Fiction Novel,468.61
+PROD0155,  BIOGRAPHY 640  ,Books,Biography,209.62
+PROD0156,Charger 383,Electronics,Charger,285.44
+PROD0157,  HISTORY BOOK 466  ,Books,History Book,220.63
+PROD0158,Jacket 153,Clothing,Jacket,387.08
+PROD0159,Sci-Fi Book 706,Books,Sci-Fi Book,256.45
+PROD0160,Camera 621,Electronics,Camera,224.98
+PROD0161,Blender 942,Home,Blender,396.82
+PROD0162,Towels 125,Home,Towels,368.51
+PROD0163,Rug 816,Home,Rug,99.46
+PROD0164,Comic Book 167,Books,Comic Book,258.71
+PROD0165,Vase 997,Home,Vase,497.93
+PROD0166,  JEANS 343  ,Clothing,Jeans,316.35
+PROD0167,Cookbook 251,Books,Cookbook,494.75
+PROD0168,SmArTpHoNe 318,Electronics,Smartphone,7.96
+PROD0169,Blender 249,Home,Blender,244.23
+PROD0170,Jacket 246,Clothing,Jacket,19.26
+PROD0171,Fiction Novel 817,Books,Fiction Novel,445.32
+PROD0172,Smartwatch 695,Electronics,Smartwatch,79.97
+PROD0173,Coffee Maker 490,Home,Coffee Maker,199.1
+PROD0174,Laptop 835,Electronics,Laptop,35.87
+PROD0175,Biography 162,Books,Biography,473.96
+PROD0176,Camera 596,Electronics,Camera,175.46
+PROD0177,Lamp 386,Home,Lamp,18.17
+PROD0178,Sneakers 192,Clothing,Sneakers,496.21
+PROD0179,FiCtIoN NoVeL 481,Books,Fiction Novel,136.24
+PROD0180,History Book 220,Books,History Book,41.54
+PROD0181,FiCtIoN NoVeL 692,Books,Fiction Novel,185.97
+PROD0182,Lamp 913,Home,Lamp,95.34
+PROD0183,Jacket 170,Clothing,Jacket,268.63
+PROD0184,JeAnS 891,Clothing,Jeans,385.55
+PROD0185,Jacket 552,Clothing,Jacket,204.29
+PROD0186,Tablet 328,Electronics,Tablet,339.73
+PROD0187,Towels 501,Home,Towels,26.16
+PROD0188,VaSe 598,Home,Vase,441.07
+PROD0189,T-ShIrT 527,Clothing,T-Shirt,299.77
+PROD0190,Sci-Fi Book 415,Books,Sci-Fi Book,270.46
+PROD0191,Blender 967,Home,Blender,431.75
+PROD0192,Camera 668,Electronics,Camera,60.06
+PROD0193,Sci-Fi Book 406,Books,Sci-Fi Book,279.22
+PROD0194,Coffee Maker 408,Home,Coffee Maker,18.25
+PROD0195,Charger 450,Electronics,Charger,63.44
+PROD0196,Camera 508,Electronics,Camera,124.4
+PROD0197,Sneakers 746,Clothing,Sneakers,413.38
+PROD0198,Smartphone 980,Electronics,Smartphone,115.07
+PROD0199,Lamp 940,Home,Lamp,34.89
+PROD0200,Biography 646,Books,Biography,389.83
+PROD0201,Tablet 390,Electronics,Tablet,60.64
+PROD0202,Towels 605,Home,Towels,384.99
+PROD0203,Charger 366,Electronics,Charger,326.82
+PROD0204,Cookbook 449,Books,Cookbook,16.21
+PROD0205,Lamp 707,Home,Lamp,51.03
+PROD0206,Smartwatch 502,Electronics,Smartwatch,367.7
+PROD0207,Cookbook 391,Books,Cookbook,250.67
+PROD0208,Cookbook 174,Books,Cookbook,34.58
+PROD0209,Camera 573,Electronics,Camera,10.4
+PROD0210,Lamp 422,Home,Lamp,215.18
+PROD0211,DrEsS 320,Clothing,Dress,374.53
+PROD0212,Dress 764,Clothing,Dress,494.07
+PROD0213,Charger 101,Electronics,Charger,360.96
+PROD0214,HiStOrY BoOk 209,Books,History Book,218.35
+PROD0215,Tablet 273,Electronics,Tablet,385.0
+PROD0216,Cushion 494,Home,Cushion,28.54
+PROD0217,Smartwatch 528,Electronics,Smartwatch,268.69
+PROD0218,Sweater 636,Clothing,Sweater,409.45
+PROD0219,Dress 460,Clothing,Dress,175.35
+PROD0220,Vase 758,Home,Vase,216.78
+PROD0221,Smartwatch 837,Electronics,Smartwatch,324.87
+PROD0222,Lamp 473,Home,Lamp,197.9
+PROD0223,Dress 784,Clothing,Dress,397.9
+PROD0224,Smartphone 334,Electronics,Smartphone,209.08
+PROD0225,Towels 503,Home,Towels,130.52
+PROD0226,Vase 483,Home,Vase,86.68
+PROD0227,Comic Book 702,Books,Comic Book,26.17
+PROD0228,Sci-Fi Book 896,Books,Sci-Fi Book,491.18
+PROD0229,Biography 895,Books,Biography,465.76
+PROD0230,Camera 484,Electronics,Camera,59.6
+PROD0231,Charger 673,Electronics,Charger,155.1
+PROD0232,Smartwatch 725,Electronics,Smartwatch,240.49
+PROD0233,Cushion 742,Home,Cushion,158.6
+PROD0234,Dress 204,Clothing,Dress,15.89
+PROD0235,Smartwatch 539,Electronics,Smartwatch,251.32
+PROD0236,Sci-Fi Book 216,Books,Sci-Fi Book,416.94
+PROD0237,Charger 268,Electronics,Charger,371.97
+PROD0238,Laptop 969,Electronics,Laptop,488.0
+PROD0239,Socks 779,Clothing,Socks,145.77
+PROD0240,Jeans 713,Clothing,Jeans,191.47
+PROD0241,Sneakers 516,Clothing,Sneakers,226.22
+PROD0242,Sweater 250,Clothing,Sweater,252.56
+PROD0243,Charger 440,Electronics,Charger,301.72
+PROD0244,Cushion 572,Home,Cushion,89.63
+PROD0245,Smartphone 441,Electronics,Smartphone,44.71
+PROD0246,T-Shirt 297,Clothing,T-Shirt,145.73
+PROD0247,Lamp 778,Home,Lamp,433.76
+PROD0248,Fiction Novel 200,Books,Fiction Novel,16.84
+PROD0249,FiCtIoN NoVeL 698,Books,Fiction Novel,382.82
+PROD0250,Jeans 616,Clothing,Jeans,30.2
+PROD0251,Rug 884,Home,Rug,199.03
+PROD0252,Tablet 282,Electronics,Tablet,198.56
+PROD0253,Camera 785,Electronics,Camera,68.85
+PROD0254,Cookbook 399,Books,Cookbook,330.99
+PROD0255,CoOkBoOk 650,Books,Cookbook,52.79
+PROD0256,Rug 131,Home,Rug,120.07
+PROD0257,Tablet 511,Electronics,Tablet,495.38
+PROD0258,Fiction Novel 300,Books,Fiction Novel,308.31
+PROD0259,T-Shirt 519,Clothing,T-Shirt,146.62
+PROD0260,Smartphone 656,Electronics,Smartphone,27.19
+PROD0261,Cookbook 907,Books,Cookbook,248.16
+PROD0262,Tablet 807,Electronics,Tablet,23.49
+PROD0263,Fiction Novel 781,Books,Fiction Novel,491.39
+PROD0264,CaMeRa 405,Electronics,Camera,331.78
+PROD0265,  VASE 644  ,Home,Vase,149.49
+PROD0266,Sweater 871,Clothing,Sweater,204.36
+PROD0267,  HISTORY BOOK 803  ,Books,History Book,258.1
+PROD0268,Biography 875,Books,Biography,474.77
+PROD0269,Socks 278,Clothing,Socks,392.16
+PROD0270,Sci-Fi Book 503,Books,Sci-Fi Book,466.55
+PROD0271,Blender 261,Home,Blender,50.53
+PROD0272,  TABLET 776  ,Electronics,Tablet,281.49
+PROD0273,ScI-Fi bOoK 710,Books,Sci-Fi Book,422.94
+PROD0274,Tablet 807,Electronics,Tablet,36.84
+PROD0275,Vase 827,Home,Vase,314.03
+PROD0276,Laptop 559,Electronics,Laptop,452.43
+PROD0277,Camera 417,Electronics,Camera,63.03
+PROD0278,Charger 127,Electronics,Charger,411.88
+PROD0279,  DRESS 471  ,Clothing,Dress,496.85
+PROD0280,  JACKET 997  ,Clothing,Jacket,269.85
+PROD0281,Coffee Maker 998,Home,Coffee Maker,33.81
+PROD0282,HiStOrY BoOk 811,Books,History Book,486.07
+PROD0283,Tablet 591,Electronics,Tablet,386.16
+PROD0284,Jacket 107,Clothing,Jacket,84.62
+PROD0285,  JACKET 895  ,Clothing,Jacket,5.19
+PROD0286,Headphones 855,Electronics,Headphones,386.18
+PROD0287,Jeans 204,Clothing,Jeans,314.02
+PROD0288,  BIOGRAPHY 740  ,Books,Biography,59.2
+PROD0289,Laptop 915,Electronics,Laptop,199.16
+PROD0290,Sweater 975,Clothing,Sweater,75.16
+PROD0291,Charger 492,Electronics,Charger,465.47
+PROD0292,Tablet 539,Electronics,Tablet,103.22
+PROD0293,Dress 215,Clothing,Dress,121.75
+PROD0294,LaMp 270,Home,Lamp,98.2
+PROD0295,  COMIC BOOK 524  ,Books,Comic Book,66.86
+PROD0296,Biography 848,Books,Biography,6.67
+PROD0297,Towels 770,Home,Towels,367.49
+PROD0298,Towels 649,Home,Towels,179.35
+PROD0299,Fiction Novel 238,Books,Fiction Novel,18.21
+PROD0300,Socks 629,Clothing,Socks,269.04
+PROD0301,Rug 342,Home,Rug,285.34
+PROD0302,ChArGeR 248,Electronics,Charger,203.2
+PROD0303,Smartwatch 181,Electronics,Smartwatch,118.06
+PROD0304,Coffee Maker 804,Home,Coffee Maker,270.34
+PROD0305,History Book 995,Books,History Book,134.34
+PROD0306,Coffee Maker 936,Home,Coffee Maker,14.1
+PROD0307,Comic Book 283,Books,Comic Book,110.71
+PROD0308,HeAdPhOnEs 919,Electronics,Headphones,182.55
+PROD0309,Blender 747,Home,Blender,441.6
+PROD0310,  SCI-FI BOOK 400  ,Books,Sci-Fi Book,116.28
+PROD0311,Camera 572,Electronics,Camera,415.55
+PROD0312,Rug 200,Home,Rug,340.9
+PROD0313,Comic Book 634,Books,Comic Book,354.13
+PROD0314,Sneakers 716,Clothing,Sneakers,96.74
+PROD0315,Charger 982,Electronics,Charger,326.88
+PROD0316,  CUSHION 919  ,Home,Cushion,229.25
+PROD0317,  SMARTPHONE 217  ,Electronics,Smartphone,340.76
+PROD0318,Smartwatch 507,Electronics,Smartwatch,445.84
+PROD0319,Smartphone 419,Electronics,Smartphone,140.29
+PROD0320,  SMARTWATCH 796  ,Electronics,Smartwatch,179.0
+PROD0321,Fiction Novel 621,Books,Fiction Novel,372.08
+PROD0322,Sci-Fi Book 224,Books,Sci-Fi Book,201.68
+PROD0323,Tablet 252,Electronics,Tablet,368.51
+PROD0324,Blender 716,Home,Blender,241.06
+PROD0325,Jacket 332,Clothing,Jacket,187.96
+PROD0326,Cookbook 732,Books,Cookbook,38.68
+PROD0327,Fiction Novel 699,Books,Fiction Novel,487.95
+PROD0328,Sneakers 490,Clothing,Sneakers,206.36
+PROD0329,Biography 608,Books,Biography,455.2
+PROD0330,Laptop 269,Electronics,Laptop,305.14
+PROD0331,JaCkEt 128,Clothing,Jacket,242.54
+PROD0332,Coffee Maker 788,Home,Coffee Maker,107.31
+PROD0333,Sneakers 388,Clothing,Sneakers,137.86
+PROD0334,Headphones 409,Electronics,Headphones,47.59
+PROD0335,  FICTION NOVEL 264  ,Books,Fiction Novel,131.8
+PROD0336,Smartwatch 227,Electronics,Smartwatch,211.07
+PROD0337,Fiction Novel 540,Books,Fiction Novel,470.05
+PROD0338,SwEaTeR 984,Clothing,Sweater,314.96
+PROD0339,Sci-Fi Book 605,Books,Sci-Fi Book,34.03
+PROD0340,  JACKET 593  ,Clothing,Jacket,489.25
+PROD0341,SwEaTeR 888,Clothing,Sweater,68.28
+PROD0342,Tablet 292,Electronics,Tablet,324.35
+PROD0343,Smartphone 837,Electronics,Smartphone,60.21
+PROD0344,Sci-Fi Book 823,Books,Sci-Fi Book,31.91
+PROD0345,Comic Book 770,Books,Comic Book,385.63
+PROD0346,ChArGeR 921,Electronics,Charger,24.61
+PROD0347,Smartphone 509,Electronics,Smartphone,117.28
+PROD0348,Cushion 604,Home,Cushion,472.74
+PROD0349,Vase 807,Home,Vase,433.83
+PROD0350,Sneakers 967,Clothing,Sneakers,317.87
+PROD0351,Socks 846,Clothing,Socks,241.77
+PROD0352,Smartphone 569,Electronics,Smartphone,171.65
+PROD0353,Laptop 892,Electronics,Laptop,263.39
+PROD0354,Jacket 982,Clothing,Jacket,419.15
+PROD0355,Rug 110,Home,Rug,438.21
+PROD0356,Biography 685,Books,Biography,204.07
+PROD0357,Laptop 489,Electronics,Laptop,227.99
+PROD0358,Comic Book 373,Books,Comic Book,424.47
+PROD0359,SnEaKeRs 533,Clothing,Sneakers,413.63
+PROD0360,Smartwatch 911,Electronics,Smartwatch,320.18
+PROD0361,Socks 907,Clothing,Socks,460.71
+PROD0362,Socks 162,Clothing,Socks,254.86
+PROD0363,Jeans 511,Clothing,Jeans,24.35
+PROD0364,  VASE 489  ,Home,Vase,294.28
+PROD0365,Socks 473,Clothing,Socks,118.6
+PROD0366,Smartwatch 266,Electronics,Smartwatch,216.37
+PROD0367,Coffee Maker 685,Home,Coffee Maker,90.21
+PROD0368,Tablet 980,Electronics,Tablet,420.58
+PROD0369,  LAPTOP 873  ,Electronics,Laptop,267.05
+PROD0370,Smartwatch 678,Electronics,Smartwatch,47.57
+PROD0371,  COOKBOOK 198  ,Books,Cookbook,176.71
+PROD0372,  FICTION NOVEL 282  ,Books,Fiction Novel,50.91
+PROD0373,Tablet 569,Electronics,Tablet,161.37
+PROD0374,Cookbook 550,Books,Cookbook,356.76
+PROD0375,  T-SHIRT 756  ,Clothing,T-Shirt,437.3
+PROD0376,Fiction Novel 438,Books,Fiction Novel,173.75
+PROD0377,Jacket 769,Clothing,Jacket,459.34
+PROD0378,Charger 294,Electronics,Charger,460.44
+PROD0379,LaMp 473,Home,Lamp,300.95
+PROD0380,Comic Book 500,Books,Comic Book,104.24
+PROD0381,  COMIC BOOK 437  ,Books,Comic Book,206.01
+PROD0382,Sci-Fi Book 211,Books,Sci-Fi Book,35.59
+PROD0383,Charger 753,Electronics,Charger,316.13
+PROD0384,Jacket 499,Clothing,Jacket,93.34
+PROD0385,CaMeRa 104,Electronics,Camera,343.69
+PROD0386,Biography 310,Books,Biography,459.9
+PROD0387,Towels 909,Home,Towels,265.79
+PROD0388,Biography 844,Books,Biography,285.5
+PROD0389,  VASE 404  ,Home,Vase,168.66
+PROD0390,Laptop 683,Electronics,Laptop,94.05
+PROD0391,Camera 818,Electronics,Camera,234.0
+PROD0392,Dress 625,Clothing,Dress,447.0
+PROD0393,Smartphone 920,Electronics,Smartphone,411.56
+PROD0394,Cookbook 321,Books,Cookbook,427.06
+PROD0395,Coffee Maker 877,Home,Coffee Maker,91.01
+PROD0396,Sweater 124,Clothing,Sweater,133.13
+PROD0397,BlEnDeR 825,Home,Blender,95.27
+PROD0398,Coffee Maker 359,Home,Coffee Maker,377.06
+PROD0399,T-Shirt 917,Clothing,T-Shirt,440.62
+PROD0400,T-Shirt 578,Clothing,T-Shirt,249.05
+PROD0401,Biography 954,Books,Biography,470.35
+PROD0402,Sci-Fi Book 499,Books,Sci-Fi Book,358.36
+PROD0403,  HEADPHONES 203  ,Electronics,Headphones,442.74
+PROD0404,T-Shirt 121,Clothing,T-Shirt,146.91
+PROD0405,Smartwatch 660,Electronics,Smartwatch,218.22
+PROD0406,History Book 715,Books,History Book,408.38
+PROD0407,Smartwatch 693,Electronics,Smartwatch,46.67
+PROD0408,Smartphone 318,Electronics,Smartphone,149.09
+PROD0409,CaMeRa 114,Electronics,Camera,227.34
+PROD0410,Smartwatch 962,Electronics,Smartwatch,117.44
+PROD0411,Charger 389,Electronics,Charger,138.55
+PROD0412,Blender 225,Home,Blender,337.43
+PROD0413,Charger 188,Electronics,Charger,189.19
+PROD0414,Comic Book 937,Books,Comic Book,279.74
+PROD0415,Jeans 286,Clothing,Jeans,398.4
+PROD0416,Coffee Maker 536,Home,Coffee Maker,37.48
+PROD0417,Smartwatch 681,Electronics,Smartwatch,166.48
+PROD0418,Socks 502,Clothing,Socks,291.07
+PROD0419,Comic Book 555,Books,Comic Book,227.74
+PROD0420,Charger 901,Electronics,Charger,203.36
+PROD0421,Towels 846,Home,Towels,41.08
+PROD0422,Towels 717,Home,Towels,93.0
+PROD0423,Fiction Novel 824,Books,Fiction Novel,133.18
+PROD0424,Sci-Fi Book 441,Books,Sci-Fi Book,408.89
+PROD0425,Jacket 573,Clothing,Jacket,146.08
+PROD0426,Fiction Novel 920,Books,Fiction Novel,498.02
+PROD0427,Lamp 333,Home,Lamp,23.74
+PROD0428,  BIOGRAPHY 174  ,Books,Biography,247.61
+PROD0429,T-Shirt 532,Clothing,T-Shirt,208.4
+PROD0430,Smartwatch 876,Electronics,Smartwatch,460.74
+PROD0431,Dress 633,Clothing,Dress,98.83
+PROD0432,Headphones 644,Electronics,Headphones,456.86
+PROD0433,Smartwatch 506,Electronics,Smartwatch,127.29
+PROD0434,Camera 950,Electronics,Camera,13.95
+PROD0435,Laptop 371,Electronics,Laptop,76.09
+PROD0436,Blender 524,Home,Blender,177.78
+PROD0437,Towels 847,Home,Towels,291.28
+PROD0438,Camera 326,Electronics,Camera,102.98
+PROD0439,DrEsS 126,Clothing,Dress,78.04
+PROD0440,HiStOrY BoOk 919,Books,History Book,49.27
+PROD0441,Headphones 317,Electronics,Headphones,374.59
+PROD0442,Cookbook 464,Books,Cookbook,118.47
+PROD0443,Sci-Fi Book 983,Books,Sci-Fi Book,469.63
+PROD0444,Towels 846,Home,Towels,13.88
+PROD0445,Rug 587,Home,Rug,351.58
+PROD0446,Jeans 717,Clothing,Jeans,113.31
+PROD0447,Blender 592,Home,Blender,258.73
+PROD0448,Comic Book 124,Books,Comic Book,322.5
+PROD0449,Cookbook 811,Books,Cookbook,192.87
+PROD0450,Biography 753,Books,Biography,234.09
+PROD0451,Headphones 579,Electronics,Headphones,275.46
+PROD0452,Biography 543,Books,Biography,252.44
+PROD0453,Charger 581,Electronics,Charger,325.37
+PROD0454,Jacket 994,Clothing,Jacket,365.38
+PROD0455,  FICTION NOVEL 355  ,Books,Fiction Novel,216.82
+PROD0456,Jeans 123,Clothing,Jeans,282.99
+PROD0457,Sci-Fi Book 240,Books,Sci-Fi Book,285.1
+PROD0458,Dress 309,Clothing,Dress,10.86
+PROD0459,Cushion 622,Home,Cushion,98.34
+PROD0460,Jeans 270,Clothing,Jeans,56.54
+PROD0461,Fiction Novel 756,Books,Fiction Novel,134.86
+PROD0462,  DRESS 316  ,Clothing,Dress,480.12
+PROD0463,Tablet 593,Electronics,Tablet,432.53
+PROD0464,Headphones 148,Electronics,Headphones,334.06
+PROD0465,Rug 579,Home,Rug,116.91
+PROD0466,Fiction Novel 689,Books,Fiction Novel,266.16
+PROD0467,Sweater 518,Clothing,Sweater,237.32
+PROD0468,Headphones 555,Electronics,Headphones,20.88
+PROD0469,BlEnDeR 824,Home,Blender,29.98
+PROD0470,Socks 887,Clothing,Socks,6.7
+PROD0471,Sci-Fi Book 129,Books,Sci-Fi Book,105.11
+PROD0472,  CAMERA 955  ,Electronics,Camera,42.48
+PROD0473,Fiction Novel 455,Books,Fiction Novel,358.07
+PROD0474,Headphones 787,Electronics,Headphones,491.46
+PROD0475,Comic Book 449,Books,Comic Book,375.97
+PROD0476,Lamp 134,Home,Lamp,259.49
+PROD0477,Sweater 362,Clothing,Sweater,310.99
+PROD0478,RuG 938,Home,Rug,332.82
+PROD0479,Cookbook 465,Books,Cookbook,370.11
+PROD0480,  COOKBOOK 510  ,Books,Cookbook,352.98
+PROD0481,Smartphone 209,Electronics,Smartphone,394.23
+PROD0482,CoOkBoOk 945,Books,Cookbook,213.13
+PROD0483,Sci-Fi Book 372,Books,Sci-Fi Book,469.12
+PROD0484,Camera 762,Electronics,Camera,28.43
+PROD0485,T-Shirt 128,Clothing,T-Shirt,384.06
+PROD0486,Cushion 320,Home,Cushion,455.87
+PROD0487,Jeans 195,Clothing,Jeans,266.29
+PROD0488,  HEADPHONES 873  ,Electronics,Headphones,82.94
+PROD0489,Sneakers 665,Clothing,Sneakers,120.21
+PROD0490,Socks 762,Clothing,Socks,25.9
+PROD0491,Headphones 859,Electronics,Headphones,447.29
+PROD0492,Jeans 498,Clothing,Jeans,206.14
+PROD0493,HiStOrY BoOk 270,Books,History Book,361.93
+PROD0494,LaPtOp 643,Electronics,Laptop,194.85
+PROD0495,Sneakers 420,Clothing,Sneakers,101.52
+PROD0496,Jeans 437,Clothing,Jeans,114.04
+PROD0497,  FICTION NOVEL 405  ,Books,Fiction Novel,342.21
+PROD0498,Tablet 566,Electronics,Tablet,107.42
+PROD0499,Vase 695,Home,Vase,412.73
+PROD0500,Sweater 271,Clothing,Sweater,270.47
+PROD0501,Coffee Maker 476,Home,Coffee Maker,426.73
+PROD0502,Cushion 956,Home,Cushion,174.14
+PROD0503,Cushion 162,Home,Cushion,85.89
+PROD0504,Vase 273,Home,Vase,180.43
+PROD0505,Dress 103,Clothing,Dress,336.12
+PROD0506,Socks 486,Clothing,Socks,132.49
+PROD0507,CaMeRa 589,Electronics,Camera,421.36
+PROD0508,Vase 277,Home,Vase,388.14
+PROD0509,Socks 885,Clothing,Socks,483.01
+PROD0510,HiStOrY BoOk 278,Books,History Book,434.57
+PROD0511,Sweater 539,Clothing,Sweater,158.76
+PROD0512,Dress 782,Clothing,Dress,426.7
+PROD0513,Vase 918,Home,Vase,87.5
+PROD0514,Sci-Fi Book 983,Books,Sci-Fi Book,494.42
+PROD0515,Socks 891,Clothing,Socks,77.35
+PROD0516,Fiction Novel 516,Books,Fiction Novel,36.67
+PROD0517,Vase 416,Home,Vase,49.64
+PROD0518,Sneakers 884,Clothing,Sneakers,492.37
+PROD0519,Towels 900,Home,Towels,267.33
